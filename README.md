@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cassioceo
-- 👀 I’m interested in novidades
-- 🌱 I’m currently learning programação
+- 👋 olá, eu sou @Cassioceo
+- 👀 estou interessado em novidades
+- 🌱 estou aprendendo sobre programação
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me cassiorcr@hotmail.com
+- 📫 email cassiorcr@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 
